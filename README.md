@@ -1,4 +1,4 @@
-#### <img height="496" width="1540" src="https://github.com/enesscakmak/enesscakmak/assets/114193468/5ec574d2-74a3-46b7-895c-ed86ff38baa0" style="max-width:100%;" title>
+#### <img  src="https://github.com/enesscakmak/enesscakmak/assets/114193468/5ec574d2-74a3-46b7-895c-ed86ff38baa0" style="width:100%; max-width:768px; height:%100; max-height:330px;" title>
 
 
 
