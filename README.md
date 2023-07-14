@@ -5,7 +5,7 @@
 ### <h1 align="center" dir="auto"> Hi there 👋, I'm Enes  
   
   
-I'm a 22 years old 2nd year Computer Science student based in Istanbul. I love to learn new things and i think my passion about ML and AI just feeds this. I also am curious about generative art (even the header image is generated with stable diffusion). I am only learning python for now but i want to try other things at least a bit in the future. You can contact me whenever you want!   
+I'm a 22 years old 2nd year Computer Science student living in Istanbul. I love to learn new things and i think my passion about ML and AI just feeds this. I also am curious about generative art (even the header image is generated with stable diffusion). I am only learning python for now but i want to try other things at least a bit in the future. You can contact me whenever you want!   
 
 
 ### <h2 > Socials
