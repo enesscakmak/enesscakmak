@@ -20,14 +20,7 @@ I'm a 22 years old 2nd year Computer Science student living in Istanbul. I love 
 ### 🛠 Stack  
 Python  
 
-
-
-
-
-
-
-
-    Yes, only python but only for now.
+Git & GitHub  
 
 
 <!--
