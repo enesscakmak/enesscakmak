@@ -13,7 +13,7 @@ I'm a 22 years old 2nd year Computer Science student living in Istanbul. I love 
 <a href="https://twitter.com/aleisterxavier" rel="nofollow">
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 <a/>
-<a href="https://www.linkedin.com/in/enes-çakmak-344239249/" rel="nofollow">
+<a href="https://www.linkedin.com/in/enesscakmak/" rel="nofollow">
    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 <a/>
 
