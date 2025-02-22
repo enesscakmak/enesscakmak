@@ -9,7 +9,7 @@ I'm a 23 years old 3rd year Computer Engineering student living in Istanbul. I l
 
 
 ### <h2>💬 Socials
-<p>My personal website: <a href="enescakmak.net" target="blank" rel="noopener noreferrer">enescakmak.net</a></p>
+<p>My personal website: <a href="https://www.enescakmak.net" target="blank" rel="noopener noreferrer">enescakmak.net</a></p>
 
 <a href="https://www.linkedin.com/in/enesscakmak/" rel="nofollow">
    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
