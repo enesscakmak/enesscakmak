@@ -5,7 +5,7 @@
 ### <h1 align="center" dir="auto"> Welcome 👋, I'm Enes  
   
   
-I'm a 23 years old 3rd year Computer Engineering student living in Istanbul. I love to learn new things and i think this profession just feeds this. I also am curious about generative art. I am learning mainly Python for now but i am curious to try other things(resisting not to say everything). You can contact me whenever you want, from wherever you want!   
+I'm a 23-year-old 3rd-year Computer Engineering student living in Istanbul. I love to learn new things and I think this profession just feeds this. I also am curious about generative art. I'm working on my skills on frontend development and trying to improve everyday. You can contact me whenever you want, from wherever you want!   
 
 
 ### <h2>💬 Socials
