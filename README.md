@@ -19,11 +19,11 @@ I'm a 23-year-old 3rd-year Computer Engineering student living in Istanbul. I lo
 
 
 ### <h2>🛠 Stack  
+HTML, CSS and JavaScript
+
 Python  
 
 Git & GitHub  
 
-Java  
-  
-  and a sprinkle of HTML with CSS
+with a sprinkle of Java and Flutter  
 
